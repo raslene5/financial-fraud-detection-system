@@ -1,6 +1,10 @@
 # 🏦 Financial Fraud Detection System
 
 A comprehensive, production-ready fraud detection system combining advanced machine learning, real-time processing, and interactive dashboards.
+## Demo
+
+
+https://github.com/user-attachments/assets/0ca9cb52-1e99-4eb6-9b1d-b28b501588a6
 
 ## 🎯 System Overview
 
@@ -149,8 +153,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For support and questions, please open an issue in the GitHub repository.
-## Demo
 
-
-https://github.com/user-attachments/assets/0ca9cb52-1e99-4eb6-9b1d-b28b501588a6
 
